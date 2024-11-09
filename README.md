@@ -29,5 +29,5 @@ Este é um sistema de agendamento para a web que permite que usuários e adminis
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/sistema-agendamento.git
+   git clone https://github.com/SKbrookk/sistema-agendamento.git
    cd sistema-agendamento
